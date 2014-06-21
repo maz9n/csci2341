@@ -10,7 +10,7 @@ Polynomial calculator using linked lists
 */
 
 /*
-program is partly finished
+program is finished
 */
 
 // includes
