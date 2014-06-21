@@ -8,7 +8,7 @@
 *  A Polynomial class file showing the methods for calculating a polynomial.
 */
 /*
-this header file is finished and working fine.
+this header file is finished
 */
 #ifndef POLYNOMIAL_H
 #define POLYNOMIAL_H
