@@ -11,8 +11,7 @@ sorting method is better for which lengths of lists.
 */
 
 /*
-UPDATE 1 @ 7:04 PM on 16/06/2014 : Started program
-UPDATE 2 @ 6:46 PM on 17/06/2014 : Finished program
+program is working as intended
 */
 
 // ----------------------------------------------------------------------- //
